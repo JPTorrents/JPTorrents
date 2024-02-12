@@ -1,12 +1,15 @@
 
-### Hi there, I'm Joel👋
+### Hi there, I'm JPTorrents 👋
 
-🎓 PhD in AI x Experts Collaboration
+🎓Phd on: 👩🏽‍⚕️experts & AI🤖   
+Leveraging my engineering background to do an ethnographic study on  
+the **collaboration between Experts and AI** in the healthcare context.
 
-🛠 Engineering background and extensive ethnographic research in healthcare
+🌱 Continously learing, currenly focused on:
+* dev and AI skills, [see my techie projects here](),
+* and studing AI in healthcare [see my academic porjects here]().
 
-🚀 My philosophy: "Experience it and learn." I believe in immersing myself in diverse environments and challenges to grow and innovate
+📮Contact via [Linkedin](https://www.linkedin.com/in/joel-perez-torrents-aa581113b/)
 
-🌍 Passionate about understanding the world around us, I'm driven to explore in both professional and personal realms
-
-🤝 Always open to collaborate on fun and meaningful projects!
+More information (CV, research, etc.) [on my hub!](jptorrents.github.io)  
+And you can also drop by [my blog](jptorrents.substack.com)
