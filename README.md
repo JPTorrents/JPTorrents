@@ -1,5 +1,6 @@
 
-### Hi world, call me Joel Perez Torrents
+### Hi world
+Call me Joel Perez Torrents
 
 Phd in Organization sciences on expert - AI collaboration
 Leveraging my engineering background to do qualitative studies on how we use technology, AI in particular.
